@@ -1,0 +1,19 @@
+[0.425s] Invoking command in '/home/ashwin/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/ashwin/ros2_ws/build/my_robot_controller/prefix_override:/home/ashwin/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ashwin/ros2_ws/build/my_robot_controller/build --no-deps install_data
+[0.581s] running develop
+[0.667s] running egg_info
+[0.667s] writing my_robot_controller.egg-info/PKG-INFO
+[0.668s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.668s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.668s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.668s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.669s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.669s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.671s] running build_ext
+[0.671s] Creating /home/ashwin/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.671s] Installing draw_circle script to /home/ashwin/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.671s] Installing pose_subscriber script to /home/ashwin/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.671s] Installing test_node script to /home/ashwin/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.671s] 
+[0.671s] Installed /home/ashwin/ros2_ws/build/my_robot_controller
+[0.671s] running install_data
+[0.692s] Invoked command in '/home/ashwin/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/ashwin/ros2_ws/build/my_robot_controller/prefix_override:/home/ashwin/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ashwin/ros2_ws/build/my_robot_controller/build --no-deps install_data

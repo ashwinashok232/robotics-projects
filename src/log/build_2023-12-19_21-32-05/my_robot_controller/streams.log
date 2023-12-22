@@ -1,0 +1,20 @@
+[0.446s] Invoking command in '/home/ashwin/ros2_ws/src/build/my_robot_controller': PYTHONPATH=/home/ashwin/ros2_ws/src/build/my_robot_controller/prefix_override:/home/ashwin/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ashwin/ros2_ws/src/build/my_robot_controller/build --no-deps install_data
+[0.607s] running develop
+[0.695s] running egg_info
+[0.695s] writing my_robot_controller.egg-info/PKG-INFO
+[0.695s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.695s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.695s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.695s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.696s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.697s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.698s] running build_ext
+[0.698s] Creating /home/ashwin/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.699s] Installing draw_circle script to /home/ashwin/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[0.699s] Installing pose_subscriber script to /home/ashwin/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[0.699s] Installing test_node script to /home/ashwin/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[0.699s] 
+[0.699s] Installed /home/ashwin/ros2_ws/src/build/my_robot_controller
+[0.699s] running install_data
+[0.699s] copying package.xml -> /home/ashwin/ros2_ws/src/install/my_robot_controller/share/my_robot_controller
+[0.720s] Invoked command in '/home/ashwin/ros2_ws/src/build/my_robot_controller' returned '0': PYTHONPATH=/home/ashwin/ros2_ws/src/build/my_robot_controller/prefix_override:/home/ashwin/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ashwin/ros2_ws/src/build/my_robot_controller/build --no-deps install_data

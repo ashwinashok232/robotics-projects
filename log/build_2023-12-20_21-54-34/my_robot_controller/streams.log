@@ -1,0 +1,20 @@
+[0.576s] Invoking command in '/home/ashwin/ros2_ws/build/my_robot_controller': PYTHONPATH=/home/ashwin/ros2_ws/build/my_robot_controller/prefix_override:/home/ashwin/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ashwin/ros2_ws/build/my_robot_controller/build --no-deps install_data
+[0.770s] running develop
+[0.880s] running egg_info
+[0.881s] writing my_robot_controller.egg-info/PKG-INFO
+[0.881s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.881s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.881s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.881s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.882s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.883s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.884s] running build_ext
+[0.885s] Creating /home/ashwin/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.885s] Installing draw_circle script to /home/ashwin/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.885s] Installing pose_subscriber script to /home/ashwin/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.885s] Installing test_node script to /home/ashwin/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.885s] Installing turtle_controller script to /home/ashwin/ros2_ws/install/my_robot_controller/lib/my_robot_controller
+[0.885s] 
+[0.886s] Installed /home/ashwin/ros2_ws/build/my_robot_controller
+[0.886s] running install_data
+[0.909s] Invoked command in '/home/ashwin/ros2_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/ashwin/ros2_ws/build/my_robot_controller/prefix_override:/home/ashwin/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ashwin/ros2_ws/build/my_robot_controller/build --no-deps install_data

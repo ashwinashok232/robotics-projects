@@ -1,0 +1,19 @@
+[0.445s] Invoking command in '/home/ashwin/ros2_ws/src/build/my_robot_controller': PYTHONPATH=/home/ashwin/ros2_ws/src/build/my_robot_controller/prefix_override:/home/ashwin/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ashwin/ros2_ws/src/build/my_robot_controller/build --no-deps install_data
+[0.605s] running develop
+[0.692s] running egg_info
+[0.693s] writing my_robot_controller.egg-info/PKG-INFO
+[0.693s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.693s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.693s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.693s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.694s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.694s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.695s] running build_ext
+[0.695s] Creating /home/ashwin/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.696s] Installing draw_circle script to /home/ashwin/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[0.696s] Installing pose_subscriber script to /home/ashwin/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[0.696s] Installing test_node script to /home/ashwin/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[0.696s] 
+[0.696s] Installed /home/ashwin/ros2_ws/src/build/my_robot_controller
+[0.696s] running install_data
+[0.718s] Invoked command in '/home/ashwin/ros2_ws/src/build/my_robot_controller' returned '0': PYTHONPATH=/home/ashwin/ros2_ws/src/build/my_robot_controller/prefix_override:/home/ashwin/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ashwin/ros2_ws/src/build/my_robot_controller/build --no-deps install_data
