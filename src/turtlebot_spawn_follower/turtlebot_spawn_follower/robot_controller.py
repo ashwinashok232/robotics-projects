@@ -19,7 +19,7 @@ class RobotNode(Node):
         self.spawn_y_ = 2.0
         self.counter_ = 0
         self.turtle_name_ = "spawn_turtle" + str(self.counter_)
-        self.call_spawn_service(self.spawn_x_, self.spawn_y_, 0.0, self.turtle_name_+str(self.counter_))
+        self.call_spawn_service(self.spawn_x_, self.spawn_y_, 0.0, self.turtle_name_)
 
         self.cmd_vel_pub_ = self.create_publisher(
             Twist, '/turtle1/cmd_vel', 10
@@ -70,7 +70,6 @@ class RobotNode(Node):
         while not client.wait_for_service(1.0):
             self.get_logger().warn("Waiting for service...")
         
- 
         request = Spawn.Request()
         request.x = x
         request.y = y
