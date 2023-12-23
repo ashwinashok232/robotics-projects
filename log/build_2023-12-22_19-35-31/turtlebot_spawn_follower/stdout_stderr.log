@@ -1,0 +1,18 @@
+running develop
+running egg_info
+creating turtlebot_spawn_follower.egg-info
+writing turtlebot_spawn_follower.egg-info/PKG-INFO
+writing dependency_links to turtlebot_spawn_follower.egg-info/dependency_links.txt
+writing entry points to turtlebot_spawn_follower.egg-info/entry_points.txt
+writing requirements to turtlebot_spawn_follower.egg-info/requires.txt
+writing top-level names to turtlebot_spawn_follower.egg-info/top_level.txt
+writing manifest file 'turtlebot_spawn_follower.egg-info/SOURCES.txt'
+reading manifest file 'turtlebot_spawn_follower.egg-info/SOURCES.txt'
+writing manifest file 'turtlebot_spawn_follower.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ashwin/ros2_ws/install/turtlebot_spawn_follower/lib/python3.10/site-packages/turtlebot-spawn-follower.egg-link (link to .)
+Installing robot_controller script to /home/ashwin/ros2_ws/install/turtlebot_spawn_follower/lib/turtlebot_spawn_follower
+
+Installed /home/ashwin/ros2_ws/build/turtlebot_spawn_follower
+running install_data
+copying resource/turtlebot_spawn_follower -> /home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/ament_index/resource_index/packages

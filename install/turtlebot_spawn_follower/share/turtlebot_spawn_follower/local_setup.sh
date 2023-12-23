@@ -1,0 +1,1 @@
+/home/ashwin/ros2_ws/build/turtlebot_spawn_follower/ament_cmake_environment_hooks/local_setup.sh

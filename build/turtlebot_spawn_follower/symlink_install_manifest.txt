@@ -1,0 +1,15 @@
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/ament_index/resource_index/package_run_dependencies/turtlebot_spawn_follower
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/ament_index/resource_index/parent_prefix_path/turtlebot_spawn_follower
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/turtlebot_spawn_follower/environment/ament_prefix_path.sh
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/turtlebot_spawn_follower/environment/ament_prefix_path.dsv
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/turtlebot_spawn_follower/environment/path.sh
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/turtlebot_spawn_follower/environment/path.dsv
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/turtlebot_spawn_follower/local_setup.bash
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/turtlebot_spawn_follower/local_setup.sh
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/turtlebot_spawn_follower/local_setup.zsh
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/turtlebot_spawn_follower/local_setup.dsv
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/turtlebot_spawn_follower/package.dsv
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/ament_index/resource_index/packages/turtlebot_spawn_follower
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/turtlebot_spawn_follower/cmake/turtlebot_spawn_followerConfig.cmake
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/turtlebot_spawn_follower/cmake/turtlebot_spawn_followerConfig-version.cmake
+/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/share/turtlebot_spawn_follower/package.xml
