@@ -1,0 +1,17 @@
+[0.878s] Invoking command in '/home/ashwin/ros2_ws/build/turtlebot_spawn_follower': PYTHONPATH=/home/ashwin/ros2_ws/build/turtlebot_spawn_follower/prefix_override:/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ashwin/ros2_ws/build/turtlebot_spawn_follower/build --no-deps install_data
+[1.110s] running develop
+[1.233s] running egg_info
+[1.233s] writing turtlebot_spawn_follower.egg-info/PKG-INFO
+[1.233s] writing dependency_links to turtlebot_spawn_follower.egg-info/dependency_links.txt
+[1.233s] writing entry points to turtlebot_spawn_follower.egg-info/entry_points.txt
+[1.233s] writing requirements to turtlebot_spawn_follower.egg-info/requires.txt
+[1.233s] writing top-level names to turtlebot_spawn_follower.egg-info/top_level.txt
+[1.234s] reading manifest file 'turtlebot_spawn_follower.egg-info/SOURCES.txt'
+[1.235s] writing manifest file 'turtlebot_spawn_follower.egg-info/SOURCES.txt'
+[1.236s] running build_ext
+[1.236s] Creating /home/ashwin/ros2_ws/install/turtlebot_spawn_follower/lib/python3.10/site-packages/turtlebot-spawn-follower.egg-link (link to .)
+[1.237s] Installing robot_controller script to /home/ashwin/ros2_ws/install/turtlebot_spawn_follower/lib/turtlebot_spawn_follower
+[1.237s] 
+[1.237s] Installed /home/ashwin/ros2_ws/build/turtlebot_spawn_follower
+[1.237s] running install_data
+[1.271s] Invoked command in '/home/ashwin/ros2_ws/build/turtlebot_spawn_follower' returned '0': PYTHONPATH=/home/ashwin/ros2_ws/build/turtlebot_spawn_follower/prefix_override:/home/ashwin/ros2_ws/install/turtlebot_spawn_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ashwin/ros2_ws/build/turtlebot_spawn_follower/build --no-deps install_data

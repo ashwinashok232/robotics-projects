@@ -9,8 +9,12 @@ setup.py
 ../../build/turtlebot_spawn_follower/turtlebot_spawn_follower.egg-info/top_level.txt
 ../../build/turtlebot_spawn_follower/turtlebot_spawn_follower.egg-info/zip-safe
 resource/turtlebot_spawn_follower
-test/test_copyright.py
-test/test_flake8.py
-test/test_pep257.py
 turtlebot_spawn_follower/__init__.py
 turtlebot_spawn_follower/robot_controller.py
+turtlebot_spawn_follower.egg-info/PKG-INFO
+turtlebot_spawn_follower.egg-info/SOURCES.txt
+turtlebot_spawn_follower.egg-info/dependency_links.txt
+turtlebot_spawn_follower.egg-info/entry_points.txt
+turtlebot_spawn_follower.egg-info/requires.txt
+turtlebot_spawn_follower.egg-info/top_level.txt
+turtlebot_spawn_follower.egg-info/zip-safe

@@ -81,6 +81,7 @@ _colcon_package_sh_source_script() {
 _colcon_package_sh_source_script "$COLCON_CURRENT_PREFIX/share/turtlebot_spawn_follower/hook/cmake_prefix_path.sh"
 _colcon_package_sh_source_script "$COLCON_CURRENT_PREFIX/share/turtlebot_spawn_follower/hook/pythonpath.sh"
 _colcon_package_sh_source_script "$COLCON_CURRENT_PREFIX/share/turtlebot_spawn_follower/hook/ament_prefix_path.sh"
+_colcon_package_sh_source_script "$COLCON_CURRENT_PREFIX/../../build/turtlebot_spawn_follower/share/turtlebot_spawn_follower/hook/pythonpath_develop.sh"
 
 unset _colcon_package_sh_source_script
 unset COLCON_CURRENT_PREFIX
