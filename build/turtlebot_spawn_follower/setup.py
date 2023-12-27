@@ -1,1 +1,0 @@
-/home/ashwin/ros2_ws/src/turtlebot_spawn_follower/setup.py

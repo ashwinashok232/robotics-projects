@@ -1,0 +1,15 @@
+/home/ashwin/ros2_ws/install/template_files/share/ament_index/resource_index/package_run_dependencies/template_files
+/home/ashwin/ros2_ws/install/template_files/share/ament_index/resource_index/parent_prefix_path/template_files
+/home/ashwin/ros2_ws/install/template_files/share/template_files/environment/ament_prefix_path.sh
+/home/ashwin/ros2_ws/install/template_files/share/template_files/environment/ament_prefix_path.dsv
+/home/ashwin/ros2_ws/install/template_files/share/template_files/environment/path.sh
+/home/ashwin/ros2_ws/install/template_files/share/template_files/environment/path.dsv
+/home/ashwin/ros2_ws/install/template_files/share/template_files/local_setup.bash
+/home/ashwin/ros2_ws/install/template_files/share/template_files/local_setup.sh
+/home/ashwin/ros2_ws/install/template_files/share/template_files/local_setup.zsh
+/home/ashwin/ros2_ws/install/template_files/share/template_files/local_setup.dsv
+/home/ashwin/ros2_ws/install/template_files/share/template_files/package.dsv
+/home/ashwin/ros2_ws/install/template_files/share/ament_index/resource_index/packages/template_files
+/home/ashwin/ros2_ws/install/template_files/share/template_files/cmake/template_filesConfig.cmake
+/home/ashwin/ros2_ws/install/template_files/share/template_files/cmake/template_filesConfig-version.cmake
+/home/ashwin/ros2_ws/install/template_files/share/template_files/package.xml

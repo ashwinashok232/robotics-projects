@@ -1,0 +1,20 @@
+[0.894s] Invoking command in '/home/ashwin/ros2_ws/src/template_files': PYTHONPATH=/home/ashwin/ros2_ws/build/template_files/prefix_override:/home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/template_files build --build-base /home/ashwin/ros2_ws/build/template_files/build install --record /home/ashwin/ros2_ws/build/template_files/install.log --single-version-externally-managed
+[1.044s] running egg_info
+[1.044s] writing ../../build/template_files/template_files.egg-info/PKG-INFO
+[1.044s] writing dependency_links to ../../build/template_files/template_files.egg-info/dependency_links.txt
+[1.044s] writing entry points to ../../build/template_files/template_files.egg-info/entry_points.txt
+[1.044s] writing requirements to ../../build/template_files/template_files.egg-info/requires.txt
+[1.044s] writing top-level names to ../../build/template_files/template_files.egg-info/top_level.txt
+[1.045s] reading manifest file '../../build/template_files/template_files.egg-info/SOURCES.txt'
+[1.046s] writing manifest file '../../build/template_files/template_files.egg-info/SOURCES.txt'
+[1.046s] running build
+[1.046s] running build_py
+[1.046s] running install
+[1.046s] running install_lib
+[1.047s] running install_data
+[1.048s] running install_egg_info
+[1.049s] removing '/home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages/template_files-0.0.0-py3.10.egg-info' (and everything under it)
+[1.049s] Copying ../../build/template_files/template_files.egg-info to /home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages/template_files-0.0.0-py3.10.egg-info
+[1.049s] running install_scripts
+[1.064s] writing list of installed files to '/home/ashwin/ros2_ws/build/template_files/install.log'
+[1.149s] Invoked command in '/home/ashwin/ros2_ws/src/template_files' returned '0': PYTHONPATH=/home/ashwin/ros2_ws/build/template_files/prefix_override:/home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/template_files build --build-base /home/ashwin/ros2_ws/build/template_files/build install --record /home/ashwin/ros2_ws/build/template_files/install.log --single-version-externally-managed

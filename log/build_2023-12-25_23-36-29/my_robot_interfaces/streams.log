@@ -1,0 +1,5 @@
+[0.307s] Invoking command in '/home/ashwin/ros2_ws/build/my_robot_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ashwin/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/ashwin/ros2_ws/build/my_robot_interfaces -- -j12 -l12
+[0.494s] [0mCMake Error: The source directory "/home/ashwin/ros2_ws/src/my_robot_interfaces" does not exist.
+[0.494s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.494s] gmake: *** [Makefile:963: cmake_check_build_system] Error 1
+[0.681s] Invoked command in '/home/ashwin/ros2_ws/build/my_robot_interfaces' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ashwin/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/ashwin/ros2_ws/build/my_robot_interfaces -- -j12 -l12

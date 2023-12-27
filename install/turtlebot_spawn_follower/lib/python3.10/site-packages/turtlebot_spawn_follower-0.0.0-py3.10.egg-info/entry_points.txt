@@ -1,0 +1,3 @@
+[console_scripts]
+robot_controller = turtlebot_spawn_follower.robot_controller:main
+

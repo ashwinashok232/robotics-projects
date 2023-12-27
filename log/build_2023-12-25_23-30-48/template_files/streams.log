@@ -1,0 +1,28 @@
+[0.888s] Invoking command in '/home/ashwin/ros2_ws/src/template_files': PYTHONPATH=/home/ashwin/ros2_ws/build/template_files/prefix_override:/home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/template_files build --build-base /home/ashwin/ros2_ws/build/template_files/build install --record /home/ashwin/ros2_ws/build/template_files/install.log --single-version-externally-managed
+[1.039s] running egg_info
+[1.039s] creating ../../build/template_files/my_robot_controller.egg-info
+[1.039s] writing ../../build/template_files/my_robot_controller.egg-info/PKG-INFO
+[1.039s] writing dependency_links to ../../build/template_files/my_robot_controller.egg-info/dependency_links.txt
+[1.039s] writing entry points to ../../build/template_files/my_robot_controller.egg-info/entry_points.txt
+[1.039s] writing requirements to ../../build/template_files/my_robot_controller.egg-info/requires.txt
+[1.039s] writing top-level names to ../../build/template_files/my_robot_controller.egg-info/top_level.txt
+[1.039s] writing manifest file '../../build/template_files/my_robot_controller.egg-info/SOURCES.txt'
+[1.041s] reading manifest file '../../build/template_files/my_robot_controller.egg-info/SOURCES.txt'
+[1.041s] writing manifest file '../../build/template_files/my_robot_controller.egg-info/SOURCES.txt'
+[1.041s] running build
+[1.041s] running build_py
+[1.041s] creating /home/ashwin/ros2_ws/build/template_files/build
+[1.041s] creating /home/ashwin/ros2_ws/build/template_files/build/lib
+[1.041s] creating /home/ashwin/ros2_ws/build/template_files/build/lib/template_files
+[1.041s] copying template_files/__init__.py -> /home/ashwin/ros2_ws/build/template_files/build/lib/template_files
+[1.041s] copying template_files/complete_pub_sub_service.py -> /home/ashwin/ros2_ws/build/template_files/build/lib/template_files
+[1.041s] running install
+[1.041s] running install_lib
+[1.042s] creating /home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages/template_files
+[1.042s] copying /home/ashwin/ros2_ws/build/template_files/build/lib/template_files/__init__.py -> /home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages/template_files
+[1.042s] copying /home/ashwin/ros2_ws/build/template_files/build/lib/template_files/complete_pub_sub_service.py -> /home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages/template_files
+[1.042s] byte-compiling /home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages/template_files/__init__.py to __init__.cpython-310.pyc
+[1.042s] byte-compiling /home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages/template_files/complete_pub_sub_service.py to complete_pub_sub_service.cpython-310.pyc
+[1.043s] running install_data
+[1.043s] error: can't copy 'resource/my_robot_controller': doesn't exist or not a regular file
+[1.057s] Invoked command in '/home/ashwin/ros2_ws/src/template_files' returned '1': PYTHONPATH=/home/ashwin/ros2_ws/build/template_files/prefix_override:/home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/template_files build --build-base /home/ashwin/ros2_ws/build/template_files/build install --record /home/ashwin/ros2_ws/build/template_files/install.log --single-version-externally-managed

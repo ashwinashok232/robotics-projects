@@ -1,0 +1,16 @@
+[0.898s] Invoking command in '/home/ashwin/ros2_ws/src/template_files': PYTHONPATH=/home/ashwin/ros2_ws/build/template_files/prefix_override:/home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/template_files build --build-base /home/ashwin/ros2_ws/build/template_files/build install --record /home/ashwin/ros2_ws/build/template_files/install.log --single-version-externally-managed
+[1.048s] running egg_info
+[1.048s] writing ../../build/template_files/my_robot_controller.egg-info/PKG-INFO
+[1.048s] writing dependency_links to ../../build/template_files/my_robot_controller.egg-info/dependency_links.txt
+[1.048s] writing entry points to ../../build/template_files/my_robot_controller.egg-info/entry_points.txt
+[1.048s] writing requirements to ../../build/template_files/my_robot_controller.egg-info/requires.txt
+[1.049s] writing top-level names to ../../build/template_files/my_robot_controller.egg-info/top_level.txt
+[1.050s] reading manifest file '../../build/template_files/my_robot_controller.egg-info/SOURCES.txt'
+[1.050s] writing manifest file '../../build/template_files/my_robot_controller.egg-info/SOURCES.txt'
+[1.050s] running build
+[1.050s] running build_py
+[1.051s] running install
+[1.051s] running install_lib
+[1.051s] running install_data
+[1.052s] error: can't copy 'resource/my_robot_controller': doesn't exist or not a regular file
+[1.067s] Invoked command in '/home/ashwin/ros2_ws/src/template_files' returned '1': PYTHONPATH=/home/ashwin/ros2_ws/build/template_files/prefix_override:/home/ashwin/ros2_ws/install/template_files/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/template_files build --build-base /home/ashwin/ros2_ws/build/template_files/build install --record /home/ashwin/ros2_ws/build/template_files/install.log --single-version-externally-managed

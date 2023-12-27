@@ -1,0 +1,3 @@
+[console_scripts]
+<executable_name> = <package_name>.<python_file_name_without_.py>:mainEG: draw_circle = my_robot_controller.draw_circle:main
+
